@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+networkx
+pydantic
+python-multipart
+motor
+openai
+python-dotenv
+reportlab>=3.0.0
+PyMuPDF
+cachetools  
+ 
